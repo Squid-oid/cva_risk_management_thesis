@@ -1,4 +1,6 @@
 # cva_risk_management_thesis
+The Code for my Masters Thesis in Engineering Physics 2025. Generates a simulated financial environment and trains an RL agent to efficiently hedge CVA risks.
+
 The training happens in trainModel.ipynb under PPO. 
 The environment is handeled in dev_env.py under PPO, which generates environments based on simulated markets created by generate_paths_HW in Environment.
 These path generations and path handling in turn relies on files in MarketGeneratingFunctions.
