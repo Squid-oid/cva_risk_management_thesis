@@ -10,3 +10,5 @@ Demos contains a number of demo files explaining how the process is generated, a
 Autoencoder is an offshoot folder where we put together an autoencoder to test on. If you want to use an aute-encoder you first train it there hthen move it to PPO where the environment pulls it in to use.
 
 The resulting thesis is available at:  http://lup.lub.lu.se/student-papers/record/9197473
+
+Feel free to reach out to me at osc16kar@gmail.com if you have any questions about the project.
